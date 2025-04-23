@@ -1,0 +1,12 @@
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Hamm/add20
+% name: Hamm/add20
+% [20-bit adder, from Steve Hamm (Motorola) hamm@austoto.sps.mot.com]
+% id: 539
+% date: 1991
+% author: S. Hamm
+% ed: T. Davis
+% fields: title A Zeros b name id date author ed kind
+% kind: circuit simulation problem
+%-------------------------------------------------------------------------------
